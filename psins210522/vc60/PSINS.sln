@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1684
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PSINS", "PSINS.vcxproj", "{401BCECD-7D75-4CB5-AF3E-C77988C4624E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{401BCECD-7D75-4CB5-AF3E-C77988C4624E}.Debug|x86.ActiveCfg = Debug|Win32
+		{401BCECD-7D75-4CB5-AF3E-C77988C4624E}.Debug|x86.Build.0 = Debug|Win32
+		{401BCECD-7D75-4CB5-AF3E-C77988C4624E}.Release|x86.ActiveCfg = Release|Win32
+		{401BCECD-7D75-4CB5-AF3E-C77988C4624E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9D8790F-90A6-44F4-B2F2-6FAD8A547503}
+	EndGlobalSection
+EndGlobal
